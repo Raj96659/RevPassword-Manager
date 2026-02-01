@@ -1,4 +1,4 @@
-# 🔐 Secure Password Manager (Java + MySQL + JDBC)
+# 🔐 RevPassword Manager (Java + MySQL + JDBC)
 
 A console-based Password Manager application developed using **Core Java, MySQL, and JDBC**.  
 This project focuses on **secure password storage**, **user authentication**, and **real-world security practices** such as encryption, OTP verification, and account recovery using security questions.
@@ -33,13 +33,13 @@ This project focuses on **secure password storage**, **user authentication**, an
 
 ## 🏗️ Application Architecture
 
-Presentation Layer (Console UI)
-          ↓
-Service Layer (Business Logic & Security)
-          ↓
-DAO Layer (JDBC Database Access)
-          ↓
-MySQL Database
+-Presentation Layer (Console UI)
+-          ↓
+-Service Layer (Business Logic & Security)
+-          ↓
+-DAO Layer (JDBC Database Access)
+-          ↓
+-MySQL Database
 
 
 This ensures separation of concerns, maintainability, and clean design.
