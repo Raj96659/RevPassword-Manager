@@ -34,11 +34,11 @@ This project focuses on **secure password storage**, **user authentication**, an
 ## 🏗️ Application Architecture
 
 -Presentation Layer (Console UI)
--          ↓
+          ↓
 -Service Layer (Business Logic & Security)
--          ↓
+          ↓
 -DAO Layer (JDBC Database Access)
--          ↓
+          ↓
 -MySQL Database
 
 
